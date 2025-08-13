@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi! I'm Francesco Pantano👋
+
+🎓 IT student | Currently studying at DMI by University of Catania
+
+💻 I like to keep putting myself through various challenges, that's why i always try to learn something new!
+
+---
+
+# Hard Skills
+
 
 <!--
 **franciccjo/franciccjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
